@@ -1,3 +1,6 @@
+# ignore /idea files
+.idea/
+
 # Compiled class file
 *.class
 
